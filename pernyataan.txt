@@ -1,7 +1,7 @@
 Saya yang mempunyai identitas di bawah ini,
-NIM   : [NIM]
-Nama  : [nama-lengkap]
-Kelas : [kelas]
+NIM   : 1531143001
+Nama  : Ahmad zAHRUL Y
+Kelas : 2 D MI
 
 Dengan ini menyatakan:
 
